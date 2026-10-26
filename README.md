@@ -1,7 +1,7 @@
-📘 Assignment 11 – CV5100: MUDE (IIT Madras)
+📘 Assignment 11 – CV5101: MUDE (IIT Madras)
 
 Topic: Time series analysis
-Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
+Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
 
 
 *Written by: `pradeep, prakash, and sudheendra`*
